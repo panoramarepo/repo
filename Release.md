@@ -1,0 +1,8 @@
+Origin: Panoramarepo
+Label: Panoramarepo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Panoramarepo - a cydia repo template
